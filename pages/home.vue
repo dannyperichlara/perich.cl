@@ -19,12 +19,23 @@ Independiente de esta medida, en los próximos días me contactaré con todos lo
         <div class="lead">
           <i class="font-weight-bold">del profesor Danny Perich C.</i></div>
           <p>40 años de experiencia preparando para las pruebas de selección universitaria PAA, PCE, PSU y ahora la PDT, Prueba de Transición Universitaria, con gran éxito.</p>
-          <p>Puedes inscribirte online. En menos de 5 minutos estarás matriculado.</p>
+          <!-- <p>Puedes inscribirte online. En menos de 5 minutos estarás matriculado.</p> -->
         
         <hr>
-        <h4>Fecha de inicio: 15 de marzo de 2021</h4>
-        <h4>Horario de clases: Lunes de 18:30 a 19:50 / Viernes de 15:00 a 16:20</h4>
-        <h5 class="mt-5">FORMAS DE PAGO: TARJETA – CHEQUES – TRANSFERENCIAS – OTROS</h5>
+        <h2>Incorporación Segundo Semestre</h2>
+        <h4>Fecha de inicio: 2 de agosto de 2021</h4>
+        <h4>Horario de clases: Lunes y martes de 18:30 a 19:50, y Viernes de 15:00 a 16:15</h4>
+        <h5 class="mt-5">Costo del Curso: $300.000<br>
+            Forma de pago: Transferencia. Se puede cancelar al contado desde 2 a 5 cuotas (pagando la primera cuota al momento de la inscripción).</h5>
+        <hr>
+        <p class="lead">
+          Datos de Transferencia:<br>
+          Nombre: Danny Perich<br>
+          Cuenta Corriente: 2910139710<br>
+          Banco de Chile<br>
+          Email: <a href="dannyperich@gmail.com">dannyperich@gmail.com</a>
+        </p>
+        <p class="lead">IMPORTANTE: Incorporar en el mensaje de la transferencia el nombre del alumno/a inscrito y su número de whatsapp.<br>En caso que el portal del banco no permita ingresar esta información, enviar un mensaje de whatsapp al <a href="https://wa.me/56961209403">+56 9 6120 9403</a></p>
         <hr>
         <p>¿Aún tienes dudas? Llama al <a href="tel:+56 9 6120 9403">+56 9 6120 9403</a> para realizar tus consultas a través de Whatsapp</p>
         <div class="mt-2"> <b-button 
@@ -56,6 +67,7 @@ Independiente de esta medida, en los próximos días me contactaré con todos lo
             <h4 class="text-center">Preuniversitario</h4>
             <ul>
               <li class="h4">Arancel anual: <b>$600.000</b></li>
+              <li class="h4">Incorporación 2do semestre: <b>$300.000</b></li>
               <li class="">Clases ONLINE a través de la plataforma ZOOM</li>
               <!-- <li class="">Más de <b>70 clases</b> presenciales.</li> -->
               <li class=""><b>10 ensayos</b> al año.</li>
@@ -67,8 +79,8 @@ Independiente de esta medida, en los próximos días me contactaré con todos lo
               <!--<li class="">Seriedad profesional.</li>
               <li class="">Ambiente propicio para el aprendizaje.</li>-->
             </ul>
-              <p>El arancel se puede pagar con <b>Tarjeta de Crédito hasta 48 cuotas</b></p>
-              <p class="text-center"><img src="/img/webpay-logo.png" style="max-width: 180px" /></p>
+              <!-- <p>El arancel se puede pagar con <b>Tarjeta de Crédito hasta 48 cuotas</b></p> -->
+              <!-- <p class="text-center"><img src="/img/webpay-logo.png" style="max-width: 180px" /></p> -->
           </b-card>
           <b-card class="border-0 text-left">
             <div class="roundimage rounded-circle mx-auto text-center">
